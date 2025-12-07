@@ -47,7 +47,7 @@ npm start
 
 🖼️ Screenshots
 
-
+<img width="1842" height="967" alt="Image" src="https://github.com/user-attachments/assets/4276e5ce-e328-4f35-add5-7f0f9ad8ba95" />
 
 📌 What I Learned
 
