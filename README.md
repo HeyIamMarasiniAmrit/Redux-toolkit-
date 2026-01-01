@@ -11,7 +11,6 @@ A simple and clean React application built using Redux Toolkit for efficient and
 🌐 Easy asynchronous API calls using createAsyncThunk (if included)
 
 🛠️ Technologies Used
-
 React
 
 Redux Toolkit
